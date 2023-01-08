@@ -62,49 +62,5 @@
             "hour": 23,
             "minute": 0
         }
-    },
-    {
-        "name": "KA5PER Live-Musik Abend",
-        "location": {
-            "eventLocation": "KA5PER",
-            "city": "Regensburg"
-        },
-
-        "start": {
-            "year": 2023,
-            "month": 11,
-            "day": 29,
-            "hour": 21,
-            "minute": 0
-        },
-        "end": {
-            "year": 2023,
-            "month": 11,
-            "day": 29,
-            "hour": 23,
-            "minute": 0
-        }
-    },
-    {
-        "name": "KA5PER Live-Musik Abend",
-        "location": {
-            "eventLocation": "KA5PER",
-            "city": "Regensburg"
-        },
-
-        "start": {
-            "year": 2023,
-            "month": 1,
-            "day": 29,
-            "hour": 21,
-            "minute": 0
-        },
-        "end": {
-            "year": 2023,
-            "month": 1,
-            "day": 29,
-            "hour": 23,
-            "minute": 0
-        }
     }
 ]
